@@ -32,14 +32,14 @@ This project is a full-stack application composed of three main components:
 We are a team of 6 passionate developers and data scientists, collaborating across different domains:
 
 ### 🧠 Machine Learning Engineers
-- Name 1
-- Name 2
-- Name 3
+- Yuda Reyvandra Herman (MC189D5Y0450)
+- Damianus Christopher (MC189D5Y0821)
+- Reksi Hendra Pratama (MC189D5Y0840)
 
 ### 💻 Fullstack Developers (FE/BE)
-- Name 4
-- Name 5
-- Name 6
+- Wildan (FC723D5Y1622)
+- Marsella Vindriani (FC315D5X2256)
+- Miftahurrohman (FC464D5Y1026)
 
 ---
 
