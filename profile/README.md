@@ -22,7 +22,7 @@ This project is a full-stack application composed of three main components:
 | Layer                   | Technology Used                     |
 |-------------------------|-------------------------------------|
 | **Frontend**            | [Next.js](https://nextjs.org/)      |
-| **Backend API**         | [Golang](https://go.dev/)|
+| **Backend API**         | [Hapi.js](https://hapi.dev/) |
 | **Machine Learning API**| [Flask](https://flask.palletsprojects.com/) |
 
 ---
