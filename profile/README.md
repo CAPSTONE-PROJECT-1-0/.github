@@ -2,9 +2,24 @@
 
 # 🌱 Health Innovation App - OISHII LIFE PROJECT 1.0
 
-![GitHub repo size](https://img.shields.io/github/repo-size/CAPSTONE-PROJECT-1-0/health-innovation-app)
-![Contributors](https://img.shields.io/github/contributors/CAPSTONE-PROJECT-1-0/health-innovation-app)
-![License](https://img.shields.io/github/license/CAPSTONE-PROJECT-1-0/health-innovation-app)
+## Badge for Frontend
+![GitHub repo size](https://img.shields.io/github/repo-size/CAPSTONE-PROJECT-1-0/frontend)
+![Contributors](https://img.shields.io/github/contributors/CAPSTONE-PROJECT-1-0/frontend)
+![GitHub stars](https://img.shields.io/github/stars/CAPSTONE-PROJECT-1-0/frontend?style=social)
+
+<br>
+
+## Badge for Backend
+![GitHub repo size](https://img.shields.io/github/repo-size/CAPSTONE-PROJECT-1-0/backend)
+![Contributors](https://img.shields.io/github/contributors/CAPSTONE-PROJECT-1-0/backend)
+![GitHub stars](https://img.shields.io/github/stars/CAPSTONE-PROJECT-1-0/backend?style=social)
+
+<br>
+
+## Badge for Machine Learning
+![GitHub repo size](https://img.shields.io/github/repo-size/CAPSTONE-PROJECT-1-0/machine_learning)
+![Contributors](https://img.shields.io/github/contributors/CAPSTONE-PROJECT-1-0/machine_learning)
+![GitHub stars](https://img.shields.io/github/stars/CAPSTONE-PROJECT-1-0/machine_learning?style=social)
 
 ## 💡 Overview
 
