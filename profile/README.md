@@ -52,7 +52,7 @@ We are a team of 6 passionate developers and data scientists, collaborating acro
 - Reksi Hendra Pratama (MC189D5Y0840)
 
 ### 💻 Fullstack Developers (FE/BE)
-- Wildan (FC723D5Y1622)
+- Muhammad Wildan Nur Romadhoni (FC723D5Y1622)
 - Marsella Vindriani (FC315D5X2256)
 - Miftahurrohman (FC464D5Y1026)
 
