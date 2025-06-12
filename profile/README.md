@@ -29,6 +29,41 @@ This application is built to tackle real-world challenges in the health sector t
 Our project aims to **empower communities with accessible, smart, and scalable health technology**.
 
 ---
+## 🌟 Fitur Utama
+
+Berikut adalah fitur-fitur utama dari aplikasi **OISHI LIFE**:
+
+- 📸 **Analisis Makanan dari Foto (Upload)**  
+  Unggah gambar makanan dari galeri untuk dianalisis kandungan gizinya.
+
+- 🤳 **Analisis Makanan dari Kamera Langsung**  
+  Ambil foto makanan langsung dari kamera untuk mendapatkan analisis instan.
+
+- 🍱 **Rekomendasi Makanan Sehat**  
+  Dapatkan saran makanan sehat berdasarkan hasil analisis dan riwayat Anda.
+
+- 📚 **Edukasi Gizi**  
+  Pelajari informasi penting tentang gizi dan pola makan sehat melalui fitur edukatif.
+
+---
+
+## 🎮 Cara Penggunaan Aplikasi
+
+Ikuti langkah-langkah mudah berikut untuk menggunakan **OISHI LIFE**:
+
+1. 🔐 **Daftar atau Masuk ke Akun Anda**  
+   Akses [https://oishi-life.vercel.app/](https://oishi-life.vercel.app/) lalu login atau buat akun baru.
+
+2. 📷 **Ambil atau Unggah Foto Makanan**  
+   Pilih untuk memotret makanan langsung dari kamera atau unggah gambar dari galeri.
+
+3. 🧠 **Analisis Otomatis Gizi Makanan**  
+   OISHII LIFE akan memproses gambar dan menganalisis keseimbangan gizi secara otomatis menggunakan teknologi AI.
+
+4. 🥗 **Dapatkan Rekomendasi dan Simpan Riwayat**  
+   Lihat rekomendasi makanan sehat yang sesuai dan simpan hasil analisis untuk pemantauan berkala.
+
+---
 
 ## 🚀 Tech Stack
 
