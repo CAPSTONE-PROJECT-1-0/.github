@@ -1,0 +1,25 @@
+name: 🧩 Update Project Structure Tree
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  update-structure:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Inject directory tree into README
+        uses: euberdeveloper/ga-dree@main
+        with:
+          targetPath: "./README.md"
+          comment: "dree"
+          exclude: "node_modules,dist,.git"
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "docs: update project structure tree"
+          branch: main
